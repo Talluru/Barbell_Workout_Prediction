@@ -14,7 +14,7 @@
     The resultant confusion matrix using the seperated 20% test data is shown below.
 
     The classification of the 20 test instances are as follows
-    ## Confusion Matrix and Statistics
+    Confusion Matrix and Statistics
  
            Reference
  Prediction    A    B    C    D    E
